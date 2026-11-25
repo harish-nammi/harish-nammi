@@ -1,18 +1,17 @@
-### Hi, I'm Gangarao Nammi (Harish)
+<div align="center">
 
-**Senior UI/UX Developer & Frontend Engineer** with **14+ years of experience** designing, prototyping, and building responsive web applications, corporate platforms, and interactive user interfaces. Currently working at **Siri IT Innovations** (Hyderabad, Remote).
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harish+%F0%9F%91%8B;Senior+UI%2FUX+Developer;Frontend+Engineer+%7C+CSS3+Animator;Design+%2B+Frontend+%2B+AI+Workflows" alt="Typing SVG" />
 
-#### Core Tech Stack
-- **Frontend:** HTML5, CSS3, SASS/SCSS, JavaScript (ES6+), jQuery, Bootstrap, AngularJS, Responsive Web Design, Pure CSS3 Keyframe Animations
-- **UI/UX & Design:** Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Wireframing, Interactive Prototyping, Design Systems
-- **CMS & Backend Integration:** WordPress (Custom Themes & Frontend), PHP
-- **Workflow & AI Tools:** Visual Studio, Sublime Text, Figma AI, Adobe Firefly, GitHub Copilot, ChatGPT
+<br/>
 
-#### What I Build
-- Responsive corporate websites, multi-campus educational portals, and e-learning platforms
-- Lightweight, pure-CSS3 interactive animations and seasonal campaign landing pages
-- Pixel-accurate Figma/Adobe XD to HTML/CSS/WordPress conversions
+<a href="https://www.linkedin.com/in/gangarao-nammi-645716361/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:harish.nammi89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/harish-nammi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-#### Connect
-- **LinkedIn:** [linkedin.com/in/harish-nammi-645716361](https://www.linkedin.com/in/harish-nammi-645716361/)
-- **Email:** harish.nammi89@gmail.com
+</div>
+
+<br/>
+
+### 🧭 About
+
+I design intuitive interfaces in **Figma / Adobe XD**, build responsive frontends with **HTML5, CSS3, SASS, JavaScript, Bootstrap, AngularJS & WordPress**, and bring pages to life with **pure CSS3 animations** — now supercharged with **AI-assisted UI workflows**. **14+ years** of IT experience, including **4 years** leading frontend & UI/UX delivery at **Siri IT Innovations**.
